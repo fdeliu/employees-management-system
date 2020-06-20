@@ -1,5 +1,5 @@
 # Employees Management System <br/>
-This an MERN stack web application which can be used by a company to manage its employees.<br/>
+This is an MERN stack web application which can be used by a company to manage its employees.<br/>
 The app has two User Roles, an Admin user who has access on everything, also can add new user<br/> and a Human Resourse user, who can add and edit an employee but can not delete it.
 
 ## Technologies used:
